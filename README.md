@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @palak2104
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning DataStructures nd Algorithms.
+- 🌱 I’m currently learning Data Structures nd Algorithms.
 - 💞️ I’m looking to collaborate on MERN stack development.
 - 📫 How to reach me? Shoot a mail at palakmittal2104@gmail.com
 
