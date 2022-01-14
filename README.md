@@ -4,21 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palak2104&label=Profile%20views&color=0e75b6&style=flat" alt="palak2104" /> </p>
 <p align="left"> <a href="https://twitter.com/palakmittal21" target="blank"><img src="https://img.shields.io/twitter/follow/palakmittal21?logo=twitter&style=for-the-badge" alt="palakmittal21" /></a> </p>
 
-- 🔭 I’m currently working on **Data Structures and Algorithms**
 
-- 🌱 I’m currently learning **React JS, Dynamic Programming**
-
-- 👯 I’m looking to collaborate on **Web Development Projecs**
-
-- 🤝 I’m looking for help with **MERN Satack Development**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/palak-mittal-1461591ab/](https://www.linkedin.com/in/palak-mittal-1461591ab/)
-
-- 💬 Ask me about **Data Structures**
-
-- 📫 How to reach me **palakmittal2104@gmail.com**
-
-- ⚡ Fun fact **I love to disscuss and debates over various topics.**
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
@@ -40,4 +26,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palak2104&show_icons=true&locale=en" alt="palak2104" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palak2104&" alt="palak2104" /></p>
+- 🔭 I’m currently working on **Data Structures and Algorithms**
+
+- 🌱 I’m currently learning **React JS, Dynamic Programming**
+
+- 👯 I’m looking to collaborate on **Web Development Projecs**
+
+- 🤝 I’m looking for help with **MERN Satack Development**
+
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/palak-mittal-1461591ab/](https://www.linkedin.com/in/palak-mittal-1461591ab/)
+
+- 💬 Ask me about **Data Structures**
+
+- 📫 How to reach me **palakmittal2104@gmail.com**
+
+- ⚡ Fun fact **I love to disscuss and debates over various topics.**
 
