@@ -1,5 +1,5 @@
 <h1 align="center">This is Palak !! 👩‍💻</h1>
-<h3 align="center">A curious girl, trying hard to turn her dreams into reality..</h3>
+<h3 align="center">A curious girl, working hard to turn her dreams into reality..</h3>
 <img align="right" alt="Banner" width="900" src="Simple Work LinkedIn Banner.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palak2104&label=Profile%20views&color=0e75b6&style=flat" alt="palak2104" /> </p>
 
