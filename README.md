@@ -21,9 +21,9 @@
 - 📫 How to reach me **palakmittal2104@gmail.com**
 
 - ⚡ Fun fact **I love to disscuss and debates over various topics.**
-
-<h3 align="left">Connect with me:</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/palakmittal21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="palakmittal21" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/palak-mittal-1461591ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/palak-mittal-1461591ab/" height="30" width="40" /></a>
