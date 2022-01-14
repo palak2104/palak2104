@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Palak Mittal</h1>
-<h3 align="center">Aspiring Software Developer</h3>
+<h3 align="center">A confused girl, trying hard to turn her dreams into reality</h3>
+<img align="right" alt="Banner" width="900" src="Simple Work LinkedIn Banner.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palak2104&label=Profile%20views&color=0e75b6&style=flat" alt="palak2104" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palak2104" alt="palak2104" /></a> </p>
