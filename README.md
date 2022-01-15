@@ -40,5 +40,5 @@
 
 - 📫 How to reach me **palakmittal2104@gmail.com**
 
-- ⚡ Fun fact **I love to disscuss and debates over various topics.**
+- ⚡ Fun fact **I love to disscuss and debate over various topics.**
 
