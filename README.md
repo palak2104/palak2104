@@ -1,5 +1,4 @@
-<h1 align="center">This is Palak !! 👩‍💻</h1>
-<h3 align="center">Dreamer || Coder || Observer</h3>
+
 <img align="right" alt="Banner" width="900" src="Banner New.png.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palak2104&label=Profile%20views&color=0e75b6&style=flat" alt="palak2104" /> </p>
 <p align="left"> <a href="https://twitter.com/palakmittal21" target="blank"><img src="https://img.shields.io/twitter/follow/palakmittal21?logo=twitter&style=for-the-badge" alt="palakmittal21" /></a> </p>
