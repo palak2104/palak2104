@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palak2104&show_icons=true&locale=en&layout=compact" alt="palak2104" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palak2104&show_icons=true&locale=en" alt="palak2104" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=palak2104&show_icons=true&locale=en" alt="palak2104" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palak2104&" alt="palak2104" /></p>
 - 🔭 I’m currently working on **Data Structures and Algorithms**
