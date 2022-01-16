@@ -32,10 +32,10 @@
 
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=palak2104&" alt="palak2104" width="47%"/ height="2%">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=palak2104&show_icons=true&locale=en" alt="palak2104" width="47%" height="2%"/>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=palak2104&" alt="palak2104" width="45%"/ height="2%">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=palak2104&show_icons=true&locale=en" alt="palak2104" width="45%" height="2%"/>
 </p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palak2104&show_icons=true&locale=en&layout=compact" alt="palak2104"  width="47%" height="1%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palak2104&show_icons=true&locale=en&layout=compact" alt="palak2104"  width="45%" height="1%"/>
 
 
 
