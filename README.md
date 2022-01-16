@@ -28,7 +28,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projecs**
 
-- 🤝 I’m looking for help with **MERN Satack Development**
+- 🤝 I’m looking for help with **MERN Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/palak-mittal-1461591ab/](https://www.linkedin.com/in/palak-mittal-1461591ab/)
 
