@@ -8,12 +8,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/palakmittal21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="palakmittal21" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/palak-mittal-1461591ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/palak-mittal-1461591ab/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/palak-mittal-1461591ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/palak-mittal-1461591ab/" height="30" width="40" /></a>
 <a href="https://instagram.com/palakmittal_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="palakmittal_04" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/palakmittal21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="palakmittal21" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/palakmittal21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="palakmittal21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/palakmittal_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="palakmittal_21" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/palakmittal21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="palakmittal21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
